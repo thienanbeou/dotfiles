@@ -1,0 +1,4 @@
+set hidden true
+set icons true
+set relativenumber
+set shell fish
