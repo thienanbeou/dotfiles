@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Don't ignore the .gitignore file itself
+!.gitignore
+
+# Track these specific folders
+!alacritty/
+!fcitx5/
+!fish/
+!hypr/
+!lf/
+!mpd/
+!waybar/
+
+
