@@ -1,3 +1,16 @@
 # yazi.toml
 [mgr]
 show_hidden = true
+ratio = [1, 1, 4]
+
+[preview]
+wrap		= "no"
+tab_size	= 4
+max_width	= 1200
+max_height	= 1000
+cache_dir	= ""
+image_delay	= 30
+image_filter	= "triangle"
+image_quality	= 75
+ueberzug_scale	= 1
+ueberzug_offset = [ 0, 0, 0, 0 ]
